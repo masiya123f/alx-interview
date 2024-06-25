@@ -1,4 +1,4 @@
-X# ALX-Interview 
+# ALX-Interview 
 </hr>
 
 ![GitHub Logo](./images/interview.png)
